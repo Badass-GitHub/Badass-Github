@@ -1,4 +1,4 @@
-# 你好 👋
-- 自学的C++ iOS(Swift) PHP软件工程师
-- 面向客户端开发
-- 在躺平
+# HEllo 👋
+- iOS Programmer, Client Programmer.
+- Living in mainland China.
+- Not working on any project, all of my code make none profits, stop asking for CHINESE COMMENTS.
